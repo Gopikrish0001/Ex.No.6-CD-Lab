@@ -98,5 +98,3 @@ int main() {
 The back end of the compiler is implemented successfully, and the output is verified.
 
 
-## RESULT:
-The back end of the compiler is implemented successfully, and the output is verified.
