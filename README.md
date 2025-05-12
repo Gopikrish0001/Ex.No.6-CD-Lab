@@ -1,9 +1,13 @@
 # Ex.No:6
 # IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-## Register Number:
-## Date:
+## REGNO:212223043001
+## NAME :GOPIKRISHNAN M
+
+
 ## AIM:
 To write a program to implement the back end of the compiler.
+
+
 ## ALGORITHM:
 1. Start the program.
 2. Get the three variables from statements and stored in the text file k.txt.
@@ -11,6 +15,7 @@ To write a program to implement the back end of the compiler.
 4. Execute the program.
 5. Target code for the given statement is produced.
 6. Stop the program.
+
 ## PROGRAM:
 ```
 #include <stdio.h>
